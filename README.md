@@ -18,7 +18,7 @@
 - 5.Adaptive Mobile Robot Navigation and Mapping . IJRR1999 [pdf](http://web.mit.edu/2.166/www/handouts/feder_leonard_smith_ijrr_jan1999.pdf)
 - 6.Simultaneous localization and map-building using active vision . TPAMI2002 [pdf](https://d1wqtxts1xzle7.cloudfront.net/47098085/Simultaneous_20Localization_20and_20Map-Building-libre.pdf)
 - 7.Active Monocular Localization: Towards Autonomous Monocular Exploration for Multirotor MAV . ICRA2014 [pdf](https://www.researchgate.net/profile/Christian-Mostegel/publication/261476118_Active_Monocular_Localization_Towards_Autonomous_Monocular_Exploration_for_Multirotor_MAVs/links/0f3175346418523fbe000000/Active-Monocular-Localization-Towards-Autonomous-Monocular-Exploration-for-Multirotor-MAVs.pdf)
-- 8.Exploration in active learning . MIT Press, 1995 [pdf]()(https://www.ri.cmu.edu/pub_files/pub1/thrun_sebastian_1995_4/thrun_sebastian_1995_4.pdf)
+- 8.Exploration in active learning . MIT Press, 1995 [pdf](https://www.ri.cmu.edu/pub_files/pub1/thrun_sebastian_1995_4/thrun_sebastian_1995_4.pdf)
 - 9.A frontier-based approach for autonomous exploration .  CIRA97 [pdf](http://www.robotfrontier.com/papers/cira97.pdf)
 - 10.TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments . RSS2021 **Best Paper Award and Best System Paper Award**；CMU Jizhang&Howie Choset Lab [pdf](http://www.hongbiaoz.com/files/paper5.pdf)
 - 11.Learning to Explore using  Active Neural SLAM . [pdf](https://arxiv.org/pdf/2004.05155.pdf)  [Code](https://github.com/devendrachaplot/Neural-SLAM)
