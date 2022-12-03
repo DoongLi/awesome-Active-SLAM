@@ -2,7 +2,7 @@
 
 > @Brief：This is a research doc about **Active-SLAM**, focusing on the combination of **Visual SLAM** and **Active exploration**
 >
-> @Author：[Li Dong](https://github.com/DoongLi)
+> @Author：[Dong Li](https://github.com/DoongLi)
 >
 > @Date：2022-11-8
 
@@ -44,4 +44,9 @@
 - **Active Mapping**：
 - **Visual Servo**：
 ### Related Research Lab
+
+- **Computer Vision Lab @ University of British Columbia**
+  - Homepage：https://vision.cs.ubc.ca
+  - Professor：Jim Little，Alan Mackworth，Ian Mitchell and Leonid Sigal。
+  - https://vision.cs.ubc.ca/publications/
 # Todo list
