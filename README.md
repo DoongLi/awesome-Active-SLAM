@@ -92,6 +92,9 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 ## 4 Active Reconstruction/Mapping
 
+> In practice, it is challenging to distinctly differentiate between Active Reconstruction/Mapping tasks and Robotic Exploration tasks, as illustrated in the diagram above. Both involve the intersection of planning and mapping; however, their focus has notable differences. Active Reconstruction/Mapping emphasizes the quality of reconstructing entire scenes or objects, typically utilizing 3D frontiers and viewpoints. In contrast, Robotic Exploration prioritizes rapid coverage and efficiency, often employing 2D frontiers to optimize speed.
+
+
 #### 4.1 Single Object
 
 - Simultaneous localization and map-building using active vision, *TPAMI, 2002*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/47098085/Simultaneous_20Localization_20and_20Map-Building-libre.pdf)]
