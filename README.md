@@ -106,6 +106,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 ## 3 Active Loop Closure
 
 - Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2407.17078)] [[Code](https://github.com/IMRL/ActiveLoopClosure)]
+- Probabilistic Active Loop Closure for Autonomous Exploration, *ICRA 2024*. [[Paper](https://assets.amazon.science/7b/55/cb3dafd14b5ba7210870af299c8f/probabilistic-active-loop-closure-for-autonomous-exploration.pdf)]
+- ON as ALC: Active Loop Closing Object Goal Navigation, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.11523)]
 
 ## 4 Active Reconstruction/Mapping
 
