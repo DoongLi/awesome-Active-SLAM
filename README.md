@@ -50,6 +50,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 #### 1.2 Multi-robot System
 
+- Multi-Robot Collaborative Dense Scene Reconstruction, *TOG 2019*. [[Paper](https://kevinkaixu.net/papers/dong_sig19_multirobot.pdf)]
+- Multi-Robot Active Mapping via Neural Bipartite Graph Matching, *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Multi-Robot_Active_Mapping_via_Neural_Bipartite_Graph_Matching_CVPR_2022_paper.pdf)]
 - Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2403.11617)]
 
 #### 1.3 Neural-based Exploration
@@ -66,12 +68,9 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 - A Robot Exploration Strategy Based on Q-learning Network, *RCAR 2016*. [[Paper](https://onlytailei.github.io/papers/rcar_2016.pdf)]
 - Neural SLAM: Learning to Explore with External Memory, *arXiv 2017*. [[Paper](https://www.researchgate.net/profile/Lei-Tai/publication/318029164_Neural_SLAM_Learning_to_Explore_with_External_Memory/links/5a59ec3b0f7e9b5fb3854df7/Neural-SLAM-Learning-to-Explore-with-External-Memory.pdf)]
-
 - Toward autonomous mapping and exploration for mobile robots through deep supervised learning, *IROS 2017*. [[Paper](https://www.researchgate.net/profile/Shi-Bai-3/publication/321816564_Toward_autonomous_mapping_and_exploration_for_mobile_robots_through_deep_supervised_learning/links/5fa595b992851cc2869cb427/Toward-autonomous-mapping-and-exploration-for-mobile-robots-through-deep-supervised-learning.pdf)] 
-
 - Deep reinforcement learning-based automatic exploration for navigation in unknown environment, *TNNLS 2019*. [[Paper](https://arxiv.org/pdf/2007.11808)]
 - Self-Learning Exploration and Mapping for Mobile Robots via Deep Reinforcement Learning, *Aiaa scitech 2019 forum*. [[Paper](https://personal.stevens.edu/~benglot/aiaa2019-Fanfei-Chen.pdf)]
-
 - A deep reinforcement learning approach for active SLAM, *Applied Sciences 2020*. [[Paper](https://www.mdpi.com/2076-3417/10/23/8386)]
 - Autonomous exploration under uncertainty via deep reinforcement learning on graphs, *IROS 2020*. [[Paper](https://arxiv.org/pdf/2007.12640)]
 - Zero-Shot Reinforcement Learning on Graphs for Autonomous Exploration Under Uncertainty, *ICRA 2021*. [[Paper](https://arxiv.org/pdf/2105.04758)]
@@ -117,7 +116,6 @@ This repository organizes relevant papers in the Active SLAM domain according to
 #### 4.1 Single Object
 
 - Simultaneous localization and map-building using active vision, *TPAMI, 2002*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/47098085/Simultaneous_20Localization_20and_20Map-Building-libre.pdf)]
-
 - Uncertainty guided policy for active robotic 3d reconstruction using neural radiance fields, *RAL 2022*. [[Paper](https://arxiv.org/pdf/2209.08409)]
 - ActiveRMAP: Radiance Field for Active Mapping And Planning, *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2211.12656)]
 - Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2303.16739)] [[Code](https://github.com/HITSZ-NRSL/ActiveImplicitRecon)]
@@ -127,7 +125,6 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 - HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.17624)]
 - Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
-
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)]
 
 ## 5 Active Localization
@@ -138,12 +135,15 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - An Exploration-Enhanced Search Algorithm for Robot Indoor Source Searching, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10665938)]
 - Gas Source Localization in Unknown Indoor Environments sing Dual-Mode Information-Theoretic Search, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10777609)]
 
+
 #### 5.2 Active Self-localization
 
-- 
+- Towards Accurate Active Camera Localization, *ECCV 2022*. [[Paper](https://arxiv.org/pdf/2012.04263)] [[Code](https://github.com/qhFang/AccurateACL)]
+- Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach, *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2310.02650)]
+- Learning Where to Look: Self-supervised Viewpoint Selection for Active Localization Using Geometrical Information, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2407.15593)] [[Code](https://github.com/rvp-group/learning-where-to-look)]
+- Floor Plan Based Active Global Localization and Navigation Aid for Persons With Blindness and Low Vision, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10734166)]
 
 ## 6 Robotic/Active Information Gathering
 
 - AK: Attentive Kernel for Information Gathering, *RSS 2022*. [[Paper](https://arxiv.org/pdf/2205.06426)] [[Code](https://github.com/weizhe-chen/attentive_kernels)] [[Website](https://wchen-robotics.com/attentive_kernels/)]
-
 - Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes, *IJRR 2024*. [[Paper](https://arxiv.org/pdf/2306.01263)] [[PyPolo](https://pypolo.readthedocs.io/en/latest/)]
