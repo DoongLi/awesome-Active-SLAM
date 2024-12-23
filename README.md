@@ -44,17 +44,23 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Autonomous Exploration of Visually–Degraded Environments using Aerial Robots, *ICUAS 2017*. [[Paper](https://www.researchgate.net/profile/Shehryar-Khattak/publication/318899705_Autonomous_Exploration_of_Visually-Degraded_Environments_Using_Aerial_Robots/links/604fadf892851cd8ce43f960/Autonomous-Exploration-of-Visually-Degraded-Environments-Using-Aerial-Robots.pdf)]
 - Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration, *IROS 2022*. [[Paper](https://arxiv.org/pdf/2202.09631.pdf)]
 - TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments, *RSS 2021*. [[Paper](http://www.hongbiaoz.com/files/paper5.pdf)]
+- Graph-based Topological Exploration Planning in Large-scale 3D Environments, *ICRA 2021*. [[Paper](https://arxiv.org/pdf/2103.16829)]
+- Three-dimensional Terrain Aware Autonomous Exploration for Subterranean and Confined Spaces, *ICRA 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9561099)]
+- A Hierarchical Approach for Mobile Robot Exploration in Pedestrian Crowd, *RAL 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9562274)]
 - Estimating Map Completeness in Robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2406.13482)]
 - 3D Active Metric-Semantic SLAM, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2309.06950)] [[Code](https://github.com/tyuezhan/RAL24-3DAMSSLAM)]
 - Enhancing Exploration Efficiency using Uncertainty-Aware Information Prediction, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12825)]
 - A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.13664)] [[Code](https://github.com/Haochen-Niu/STGPlanner)]
 - MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2409.15590)]
+- HEROS: Hierarchical Exploration with Online Subregion Updating for 3D Environment Coverage, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.11326)] [[Code](https://github.com/bit-lsj/HEROS)]
+- HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2407.10660)] [[Code](https://github.com/bit-lsj/HPHS)]
 
 #### 1.2 Multi-robot System
 
 - Multi-Robot Collaborative Dense Scene Reconstruction, *TOG 2019*. [[Paper](https://kevinkaixu.net/papers/dong_sig19_multirobot.pdf)]
 - Multi-Robot Active Mapping via Neural Bipartite Graph Matching, *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Multi-Robot_Active_Mapping_via_Neural_Bipartite_Graph_Matching_CVPR_2022_paper.pdf)]
 - Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2403.11617)]
+- Multi-Agent Autonomy: Advancements and Challenges in Subterranean Exploration, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2110.04390)]
 
 #### 1.3 Neural-based Exploration
 
@@ -76,17 +82,27 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Autonomous exploration under uncertainty via deep reinforcement learning on graphs, *IROS 2020*. [[Paper](https://arxiv.org/pdf/2007.12640)]
 - Zero-Shot Reinforcement Learning on Graphs for Autonomous Exploration Under Uncertainty, *ICRA 2021*. [[Paper](https://arxiv.org/pdf/2105.04758)]
 - Explore-bench: Data sets, metrics and evaluations for frontier-based and deep-reinforcement-learning-based autonomous exploration, *ICRA 2022*. [[Paper](https://arxiv.org/pdf/2202.11931)] [[Code](https://github.com/efc-robot/Explore-Bench)]
+- CSO: Constraint-guided Space Optimization for Active Scene Mapping, *MM 2023*. [[[Paper](https://openreview.net/pdf?id=Tc51JqJzq6)]
 - Ariadne: A reinforcement learning approach using attention-based deep networks for exploration, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2301.11575)]
 - Off-policy evaluation with online adaptation for robot exploration in challenging environments, *RAL 2023*. [[Paper](https://arxiv.org/pdf/2204.03140)]
 - IR2 : Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2409.04730)] [[Code](https://github.com/marmotlab/IR2-Multi-Robot-RL-Exploration)]
 - HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2408.03768)] [[Code](https://github.com/marmotlab/HDPlanner_Exp_and_Nav)]
-- Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.20203)]
-- Deep Reinforcement Learning-based Large-scale Robot Exploration, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2403.10833)]
 - Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.20203)] [[Code](https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration)]
+- Deep Reinforcement Learning-based Large-scale Robot Exploration, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2403.10833)]
 
 #### 1.5 Visual Language Navigation/Exploration
 
 - Vlfm: Vision-language frontier maps for zero-shot semantic navigation, *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2312.03275)] [[Code](https://github.com/bdaiinstitute/vlfm)] [[Website](https://naoki.io/portfolio/vlfm)]
+
+
+### 1.6 Diffusion Policy-based Exploration
+
+- DARE: Diffusion Policy for Autonomous Robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.16687)]
+
+
+### 1.7 Time-aware Exploration
+
+- 
 
 ## 2 Active SLAM
 
