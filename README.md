@@ -48,6 +48,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - 3D Active Metric-Semantic SLAM, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2309.06950)] [[Code](https://github.com/tyuezhan/RAL24-3DAMSSLAM)]
 - Enhancing Exploration Efficiency using Uncertainty-Aware Information Prediction, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12825)]
 - A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.13664)] [[Code](https://github.com/Haochen-Niu/STGPlanner)]
+- MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2409.15590)]
 
 #### 1.2 Multi-robot System
 
