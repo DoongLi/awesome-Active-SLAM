@@ -92,6 +92,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2408.03768)] [[Code](https://github.com/marmotlab/HDPlanner_Exp_and_Nav)]
 - Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.20203)] [[Code](https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration)]
 - Deep Reinforcement Learning-based Large-scale Robot Exploration, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2403.10833)]
+- Deep reinforcement learning supervised autonomous exploration in office environments, *ICRA 2018*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8463213/)]
 
 #### 1.5 Visual Language Navigation/Exploration
 
