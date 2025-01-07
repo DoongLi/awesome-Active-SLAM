@@ -43,6 +43,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Active Monocular Localization: Towards Autonomous Monocular Exploration for Multirotor MAV, *ICRA 2014*. [[Paper](https://www.researchgate.net/profile/Christian-Mostegel/publication/261476118_Active_Monocular_Localization_Towards_Autonomous_Monocular_Exploration_for_Multirotor_MAVs/links/0f3175346418523fbe000000/Active-Monocular-Localization-Towards-Autonomous-Monocular-Exploration-for-Multirotor-MAVs.pdf)]
 - Autonomous Exploration of Visually–Degraded Environments using Aerial Robots, *ICUAS 2017*. [[Paper](https://www.researchgate.net/profile/Shehryar-Khattak/publication/318899705_Autonomous_Exploration_of_Visually-Degraded_Environments_Using_Aerial_Robots/links/604fadf892851cd8ce43f960/Autonomous-Exploration-of-Visually-Degraded-Environments-Using-Aerial-Robots.pdf)]
 - Explore locally, plan globally: A path planning framework for autonomous robotic exploration in subterranean environments, *ICRA 2019*. [[Paper](https://www.researchgate.net/profile/Shehryar-Khattak/publication/336130635_Explore_Locally_Plan_Globally_A_Path_Planning_Framework_for_Autonomous_Robotic_Exploration_in_Subterranean_Environments/links/6016e5dca6fdcc071ba8fb91/Explore-Locally-Plan-Globally-A-Path-Planning-Framework-for-Autonomous-Robotic-Exploration-in-Subterranean-Environments.pdf)]
+- Topological Frontier-Based Exploration and Map-Building Using Semantic Information, *Sensors 2019*. [[Paper](https://www.mdpi.com/1424-8220/19/20/4595)]
+- Hybrid topological and 3d dense mapping through autonomous exploration for large indoor environments, *ICRA 2020*. [[Paper](https://www.researchgate.net/profile/Clara-Gomez-5/publication/344982191_Hybrid_Topological_and_3D_Dense_Mapping_through_Autonomous_Exploration_for_Large_Indoor_Environments/links/6010383745851517ef19748d/Hybrid-Topological-and-3D-Dense-Mapping-through-Autonomous-Exploration-for-Large-Indoor-Environments.pdf)]
 - Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration, *IROS 2022*. [[Paper](https://arxiv.org/pdf/2202.09631.pdf)]
 - TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments, *RSS 2021*. [[Paper](http://www.hongbiaoz.com/files/paper5.pdf)]
 - Graph-based Topological Exploration Planning in Large-scale 3D Environments, *ICRA 2021*. [[Paper](https://arxiv.org/pdf/2103.16829)]
@@ -108,7 +110,9 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 ### 1.7 Time-aware Exploration
 
-- 
+- Prioritized Indoor Exploration with a Dynamic Deadline, *IROS 2024*. [[Paper](https://par.nsf.gov/servlets/purl/10344340)]
+- Prioritized robotic exploration with deadlines: A comparison of greedy, orienteering, and profitable tour approaches, *ICRA 2023*. [[Paper](https://par.nsf.gov/servlets/purl/10473707)]
+- Representation granularity enables time-efficient autonomous exploration in large, complex worlds, *Science Robotics 2023*. [[Paper](https://www.science.org/doi/abs/10.1126/scirobotics.adf0970)]
 
 ## 2 Active SLAM
 
@@ -139,10 +143,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 #### 4.1 Single Object
 
 - Simultaneous localization and map-building using active vision, *TPAMI, 2002*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/47098085/Simultaneous_20Localization_20and_20Map-Building-libre.pdf)]
-- Uncertainty guided policy for active robotic 3d reconstruction using neural radiance fields, *RAL 2022*. [[Paper](https://arxiv.org/pdf/2209.08409)]
-- ActiveRMAP: Radiance Field for Active Mapping And Planning, *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2211.12656)]
 - Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2303.16739)] [[Code](https://github.com/HITSZ-NRSL/ActiveImplicitRecon)]
-- FisherRF: Active View Selection and Mapping with Radiance Fields Using Fisher Information, *ECCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_24)] [[Code](https://github.com/JiangWenPL/FisherRF)] [[Website](https://jiangwenpl.github.io/FisherRF/)]
+
 - 3D Active Metric-Semantic SLAM, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2309.06950)] [[Code](https://github.com/tyuezhan/RAL24-3DAMSSLAM)]
 
 #### 4.2 Entire Scene
@@ -150,6 +152,13 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.17624)]
 - Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)]
+
+
+### 4.3 NeRF and 3D Gaussian Splatting-based Active Mapping
+
+- Uncertainty guided policy for active robotic 3d reconstruction using neural radiance fields, *RAL 2022*. [[Paper](https://arxiv.org/pdf/2209.08409)]
+- ActiveRMAP: Radiance Field for Active Mapping And Planning, *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2211.12656)]
+- FisherRF: Active View Selection and Mapping with Radiance Fields Using Fisher Information, *ECCV, 2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_24)] [[Code](https://github.com/JiangWenPL/FisherRF)] [[Website](https://jiangwenpl.github.io/FisherRF/)]
 
 ## 5 Active Localization
 
