@@ -155,6 +155,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.17624)]
 - Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)]
+- Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.14726)] [[Code](https://github.com/BohemianRhapsodyz/semantic_exploration)]
 
 
 ### 4.3 NeRF and 3D Gaussian Splatting-based Active Mapping
