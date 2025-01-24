@@ -69,6 +69,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2403.11617)]
 - Multi-Agent Autonomy: Advancements and Challenges in Subterranean Exploration, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2110.04390)]
 - WiSER-X: Wireless Signals-based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2412.19876)]
+- Map Prediction and Generative Entropy for Multi-Agent Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13189)]
 
 #### 1.3 Neural-based Exploration
 
