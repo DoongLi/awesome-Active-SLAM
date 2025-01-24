@@ -70,6 +70,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Multi-Agent Autonomy: Advancements and Challenges in Subterranean Exploration, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2110.04390)]
 - WiSER-X: Wireless Signals-based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2412.19876)]
 - Map Prediction and Generative Entropy for Multi-Agent Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13189)]
+- A Multi-Robot Exploration Planner for Space Applications, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10847879)] [[Code](https://github.com/MISTLab/MGGPlanner)]
 
 #### 1.3 Neural-based Exploration
 
