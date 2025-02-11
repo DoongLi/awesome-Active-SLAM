@@ -60,6 +60,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2407.10660)] [[Code](https://github.com/bit-lsj/HPHS)]
 - Towards field deployment of MAVs in adaptive exploration of GPS-denied subterranean environments, *RAS 2024*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889024000460)]
 - 3D Active Metric-Semantic SLAM, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2309.06950)] [[Code](https://github.com/tyuezhan/RAL24-3DAMSSLAM)]
+- FALCON: Fast Autonomous Aerial Exploration Using Coverage Path Guidance, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816079)] [[Code](https://github.com/HKUST-Aerial-Robotics/FALCON)]
+- EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.14203)]
 - Factor Graph-Based Active SLAM for Spacecraft Proximity Operations, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10950)]
 
 #### 1.2 Multi-robot System
@@ -69,6 +71,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Frontier-Based Exploration for Multi-Robot Rendezvous in Communication-Restricted Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2403.11617)]
 - Multi-Agent Autonomy: Advancements and Challenges in Subterranean Exploration, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2110.04390)]
 - WiSER-X: Wireless Signals-based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange, *arXiv 2021*. [[Paper](https://arxiv.org/pdf/2412.19876)]
+- SOAR: Simultaneous Exploration and Photographing with Heterogeneous UAVs for Fast Autonomous Reconstruction, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2409.02738)] [[Code](https://github.com/SYSU-STAR/SOAR)] [[Website](https://sysu-star.github.io/SOAR/)]
 - Map Prediction and Generative Entropy for Multi-Agent Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13189)]
 - A Multi-Robot Exploration Planner for Space Applications, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10847879)] [[Code](https://github.com/MISTLab/MGGPlanner)]
 
