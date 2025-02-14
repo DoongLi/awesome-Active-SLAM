@@ -160,6 +160,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)]
 - Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2408.14726)] [[Code](https://github.com/BohemianRhapsodyz/semantic_exploration)]
 - NextBestPath: Efficient 3D Mapping of Unseen Environments, *ICLR, 2025*. [[Paper](https://arxiv.org/pdf/2502.05378)] [[Website](https://shiyao-li.github.io/nbp/)]
+- Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space, *RSS, 2023*. [[Paper](https://arxiv.org/pdf/2303.09192)] [[Website](https://ai4ce.github.io/DeepExplorer/)] [[Code](https://github.com/ai4ce/DeepExplorer)]
 
 
 ### 4.3 NeRF and 3D Gaussian Splatting-based Active Mapping
