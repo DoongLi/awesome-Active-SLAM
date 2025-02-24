@@ -74,7 +74,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - SOAR: Simultaneous Exploration and Photographing with Heterogeneous UAVs for Fast Autonomous Reconstruction, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2409.02738)] [[Code](https://github.com/SYSU-STAR/SOAR)] [[Website](https://sysu-star.github.io/SOAR/)]
 - Map Prediction and Generative Entropy for Multi-Agent Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.13189)]
 - A Multi-Robot Exploration Planner for Space Applications, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10847879)] [[Code](https://github.com/MISTLab/MGGPlanner)]
-- AAGE: Air-Assisted Ground Robotic Autonomous Exploration in Large-Scale Unknown Environments, *TRO 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10891932)] 
+- AAGE: Air-Assisted Ground Robotic Autonomous Exploration in Large-Scale Unknown Environments, *TRO 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10891932)]
+- Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2502.15162)] [[Code](https://arxiv.org/pdf/2502.15162)]
 
 #### 1.3 Neural-based Exploration
 
