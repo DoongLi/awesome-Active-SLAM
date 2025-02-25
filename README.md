@@ -108,6 +108,14 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Deep Reinforcement Learning-based Large-scale Robot Exploration, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2403.10833)]
 - Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.20049)]
 
+
+##### 1.4.1 end-to-end strategies
+
+
+##### 1.4.2 two-stages strategies
+
+Note: two-stages strategies use RL techniques for viewpoint selection and navigation
+
 #### 1.5 Visual Language Navigation/Exploration
 
 - Vlfm: Vision-language frontier maps for zero-shot semantic navigation, *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2312.03275)] [[Code](https://github.com/bdaiinstitute/vlfm)] [[Website](https://naoki.io/portfolio/vlfm)]
